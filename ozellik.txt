@@ -2,3 +2,4 @@ Bu yeni dalda yazıldı.
 Bu daldan çıkarılıp Main'e eklendi.
 Bu satiri ben (bilgisayardan) yazdim.
 Bu satir reset testi icin yazildi.
+Reset onaylandi.
