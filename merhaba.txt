@@ -1,1 +1,2 @@
 Merhaba GitHub!
+Bu da ikinci satır, güncellemeyi test ediyorum.
