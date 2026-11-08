@@ -1,1 +1,2 @@
 Bu yeni dalda yazıldı.
+Bu daldan çıkarılıp Main'e eklendi.
