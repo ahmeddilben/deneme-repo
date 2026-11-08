@@ -1,2 +1,3 @@
 Bu yeni dalda yazıldı.
 Bu daldan çıkarılıp Main'e eklendi.
+Bu satiri takim arkadasim (GitHub'dan) yazdi.
